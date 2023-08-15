@@ -13,6 +13,8 @@ I rediscovered my passion for frontend during my master's degree in Advanced Ima
 <br /> 
 <br /> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-kaznovsky&layout=donut&theme=dark)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
-[<img src="linkedin.png" width="40px" height="40px">](www.linkedin.com/in/cristian-kaznovsky)
-
+<br /> 
+<br /> 
+<br /> 
+[<img src="linkedin.png" width="40px" height="40px">](https://www.linkedin.com/in/cristian-kaznovsky)
+[<img src="linkedin.png" width="40px" height="40px">](https://www.linkedin.com/in/cristian-kaznovsky)
