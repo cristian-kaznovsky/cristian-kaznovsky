@@ -14,4 +14,4 @@ I rediscovered my passion for frontend during my master's degree in Advanced Ima
 
 
 Linkedin &ensp; &ensp; Portfolio Website <br /> &ensp; [<img src="linkedin.png" width="40px" height="40px">](https://www.linkedin.com/in/cristian-kaznovsky) 
- &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [<img src="globe.png" width="40px" height="40px">](https://cristian-kaznovsky.github.io/cv/)
+ &ensp; &ensp; &ensp; &ensp; &ensp; [<img src="globe.png" width="40px" height="40px">](https://cristian-kaznovsky.github.io/cv/)
