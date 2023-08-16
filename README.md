@@ -11,10 +11,7 @@ I rediscovered my passion for frontend during my master's degree in Advanced Ima
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,c,python)](https://skills.thijs.gg) 
 <br /> 
 <br /> 
-<br /> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-kaznovsky&layout=donut&theme=dark)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-<br /> 
-<br /> 
-<br /> 
+
+
 Linkedin &ensp; &ensp; Portfolio Website <br /> &ensp; [<img src="linkedin.png" width="40px" height="40px">](https://www.linkedin.com/in/cristian-kaznovsky) 
  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [<img src="globe.png" width="40px" height="40px">](https://cristian-kaznovsky.github.io/cv/)
