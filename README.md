@@ -8,7 +8,7 @@ In high school, I discovered frontend development and was instantly hooked. Buil
 
 I rediscovered my passion for frontend during my master's degree in Advanced Image Processing and now I'm having fun building projects and completing new courses. <br /> <br /> 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,c,python)](https://skills.thijs.gg) 
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,python)](https://skills.thijs.gg) 
 <br /> 
 <br /> 
 
